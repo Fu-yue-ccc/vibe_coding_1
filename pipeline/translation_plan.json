@@ -1,0 +1,354 @@
+[
+ {
+  "id": "index",
+  "src": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/extracted/index.en.md",
+  "out": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/translated/index.zh.md",
+  "words": 1176,
+  "part": 1,
+  "parts": 1
+ },
+ {
+  "id": "pages__agentic-ai-threats.part01",
+  "src": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/extracted_parts/pages__agentic-ai-threats.part01.en.md",
+  "out": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/translated/pages__agentic-ai-threats.part01.zh.md",
+  "words": 4133,
+  "part": 1,
+  "parts": 2
+ },
+ {
+  "id": "pages__agentic-ai-threats.part02",
+  "src": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/extracted_parts/pages__agentic-ai-threats.part02.en.md",
+  "out": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/translated/pages__agentic-ai-threats.part02.zh.md",
+  "words": 3405,
+  "part": 2,
+  "parts": 2
+ },
+ {
+  "id": "pages__ai-code-review-best-practices",
+  "src": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/extracted/pages__ai-code-review-best-practices.en.md",
+  "out": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/translated/pages__ai-code-review-best-practices.zh.md",
+  "words": 2007,
+  "part": 1,
+  "parts": 1
+ },
+ {
+  "id": "pages__benefits-agentic-ai-oncall",
+  "src": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/extracted/pages__benefits-agentic-ai-oncall.en.md",
+  "out": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/translated/pages__benefits-agentic-ai-oncall.zh.md",
+  "words": 999,
+  "part": 1,
+  "parts": 1
+ },
+ {
+  "id": "pages__claude-code-best-practices",
+  "src": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/extracted/pages__claude-code-best-practices.en.md",
+  "out": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/translated/pages__claude-code-best-practices.zh.md",
+  "words": 1566,
+  "part": 1,
+  "parts": 1
+ },
+ {
+  "id": "pages__code-review-essentials",
+  "src": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/extracted/pages__code-review-essentials.en.md",
+  "out": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/translated/pages__code-review-essentials.zh.md",
+  "words": 2093,
+  "part": 1,
+  "parts": 1
+ },
+ {
+  "id": "pages__code-reviews-just-do-it",
+  "src": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/extracted/pages__code-reviews-just-do-it.en.md",
+  "out": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/translated/pages__code-reviews-just-do-it.zh.md",
+  "words": 968,
+  "part": 1,
+  "parts": 1
+ },
+ {
+  "id": "pages__context-rot.part01",
+  "src": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/extracted_parts/pages__context-rot.part01.en.md",
+  "out": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/translated/pages__context-rot.part01.zh.md",
+  "words": 4180,
+  "part": 1,
+  "parts": 2
+ },
+ {
+  "id": "pages__context-rot.part02",
+  "src": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/extracted_parts/pages__context-rot.part02.en.md",
+  "out": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/translated/pages__context-rot.part02.zh.md",
+  "words": 3515,
+  "part": 2,
+  "parts": 2
+ },
+ {
+  "id": "pages__copilot-prompt-injection-rce",
+  "src": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/extracted/pages__copilot-prompt-injection-rce.en.md",
+  "out": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/translated/pages__copilot-prompt-injection-rce.zh.md",
+  "words": 1260,
+  "part": 1,
+  "parts": 1
+ },
+ {
+  "id": "pages__devin-coding-agents-101",
+  "src": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/extracted/pages__devin-coding-agents-101.en.md",
+  "out": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/translated/pages__devin-coding-agents-101.zh.md",
+  "words": 3395,
+  "part": 1,
+  "parts": 1
+ },
+ {
+  "id": "pages__finding-vulnerabilities-claude-codex",
+  "src": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/extracted/pages__finding-vulnerabilities-claude-codex.en.md",
+  "out": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/translated/pages__finding-vulnerabilities-claude-codex.zh.md",
+  "words": 4040,
+  "part": 1,
+  "parts": 1
+ },
+ {
+  "id": "pages__good-context-good-code",
+  "src": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/extracted/pages__good-context-good-code.en.md",
+  "out": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/translated/pages__good-context-good-code.zh.md",
+  "words": 18,
+  "part": 1,
+  "parts": 1
+ },
+ {
+  "id": "pages__how-long-contexts-fail",
+  "src": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/extracted/pages__how-long-contexts-fail.en.md",
+  "out": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/translated/pages__how-long-contexts-fail.zh.md",
+  "words": 1606,
+  "part": 1,
+  "parts": 1
+ },
+ {
+  "id": "pages__how-to-review-code-effectively",
+  "src": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/extracted/pages__how-to-review-code-effectively.en.md",
+  "out": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/translated/pages__how-to-review-code-effectively.zh.md",
+  "words": 3536,
+  "part": 1,
+  "parts": 1
+ },
+ {
+  "id": "pages__how-warp-uses-warp",
+  "src": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/extracted/pages__how-warp-uses-warp.en.md",
+  "out": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/translated/pages__how-warp-uses-warp.zh.md",
+  "words": 0,
+  "part": 1,
+  "parts": 1
+ },
+ {
+  "id": "pages__kubernetes-troubleshooting-ai",
+  "src": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/extracted/pages__kubernetes-troubleshooting-ai.en.md",
+  "out": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/translated/pages__kubernetes-troubleshooting-ai.zh.md",
+  "words": 1419,
+  "part": 1,
+  "parts": 1
+ },
+ {
+  "id": "pages__lessons-from-ai-code-reviews",
+  "src": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/extracted/pages__lessons-from-ai-code-reviews.en.md",
+  "out": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/translated/pages__lessons-from-ai-code-reviews.zh.md",
+  "words": 0,
+  "part": 1,
+  "parts": 1
+ },
+ {
+  "id": "pages__mcp-food-for-thought",
+  "src": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/extracted/pages__mcp-food-for-thought.en.md",
+  "out": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/translated/pages__mcp-food-for-thought.zh.md",
+  "words": 905,
+  "part": 1,
+  "parts": 1
+ },
+ {
+  "id": "pages__mcp-introduction.part01",
+  "src": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/extracted_parts/pages__mcp-introduction.part01.en.md",
+  "out": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/translated/pages__mcp-introduction.part01.zh.md",
+  "words": 4200,
+  "part": 1,
+  "parts": 2
+ },
+ {
+  "id": "pages__mcp-introduction.part02",
+  "src": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/extracted_parts/pages__mcp-introduction.part02.en.md",
+  "out": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/translated/pages__mcp-introduction.part02.zh.md",
+  "words": 656,
+  "part": 2,
+  "parts": 2
+ },
+ {
+  "id": "pages__mcp-registry-preview",
+  "src": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/extracted/pages__mcp-registry-preview.en.md",
+  "out": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/translated/pages__mcp-registry-preview.zh.md",
+  "words": 854,
+  "part": 1,
+  "parts": 1
+ },
+ {
+  "id": "pages__mcp-server-authentication",
+  "src": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/extracted/pages__mcp-server-authentication.en.md",
+  "out": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/translated/pages__mcp-server-authentication.zh.md",
+  "words": 2035,
+  "part": 1,
+  "parts": 1
+ },
+ {
+  "id": "pages__multi-agent-systems-ai-native",
+  "src": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/extracted/pages__multi-agent-systems-ai-native.en.md",
+  "out": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/translated/pages__multi-agent-systems-ai-native.zh.md",
+  "words": 2024,
+  "part": 1,
+  "parts": 1
+ },
+ {
+  "id": "pages__observability-basics",
+  "src": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/extracted/pages__observability-basics.en.md",
+  "out": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/translated/pages__observability-basics.zh.md",
+  "words": 1769,
+  "part": 1,
+  "parts": 1
+ },
+ {
+  "id": "pages__owasp-top-ten",
+  "src": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/extracted/pages__owasp-top-ten.en.md",
+  "out": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/translated/pages__owasp-top-ten.zh.md",
+  "words": 2394,
+  "part": 1,
+  "parts": 1
+ },
+ {
+  "id": "pages__peeking-under-the-hood-of-claude-code",
+  "src": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/extracted/pages__peeking-under-the-hood-of-claude-code.en.md",
+  "out": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/translated/pages__peeking-under-the-hood-of-claude-code.zh.md",
+  "words": 40,
+  "part": 1,
+  "parts": 1
+ },
+ {
+  "id": "pages__prompt-engineering-guide",
+  "src": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/extracted/pages__prompt-engineering-guide.en.md",
+  "out": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/translated/pages__prompt-engineering-guide.zh.md",
+  "words": 73,
+  "part": 1,
+  "parts": 1
+ },
+ {
+  "id": "pages__prompt-engineering-overview.part01",
+  "src": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/extracted_parts/pages__prompt-engineering-overview.part01.en.md",
+  "out": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/translated/pages__prompt-engineering-overview.part01.zh.md",
+  "words": 4200,
+  "part": 1,
+  "parts": 2
+ },
+ {
+  "id": "pages__prompt-engineering-overview.part02",
+  "src": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/extracted_parts/pages__prompt-engineering-overview.part02.en.md",
+  "out": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/translated/pages__prompt-engineering-overview.part02.zh.md",
+  "words": 3831,
+  "part": 2,
+  "parts": 2
+ },
+ {
+  "id": "pages__sast-vs-dast",
+  "src": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/extracted/pages__sast-vs-dast.en.md",
+  "out": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/translated/pages__sast-vs-dast.zh.md",
+  "words": 3029,
+  "part": 1,
+  "parts": 1
+ },
+ {
+  "id": "pages__specs-are-the-new-source-code",
+  "src": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/extracted/pages__specs-are-the-new-source-code.en.md",
+  "out": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/translated/pages__specs-are-the-new-source-code.zh.md",
+  "words": 2136,
+  "part": 1,
+  "parts": 1
+ },
+ {
+  "id": "pages__sre-introduction",
+  "src": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/extracted/pages__sre-introduction.en.md",
+  "out": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/translated/pages__sre-introduction.zh.md",
+  "words": 4140,
+  "part": 1,
+  "parts": 1
+ },
+ {
+  "id": "pages__warp-vs-claude-code",
+  "src": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/extracted/pages__warp-vs-claude-code.en.md",
+  "out": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/translated/pages__warp-vs-claude-code.zh.md",
+  "words": 632,
+  "part": 1,
+  "parts": 1
+ },
+ {
+  "id": "pages__writing-effective-tools-for-agents",
+  "src": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/extracted/pages__writing-effective-tools-for-agents.en.md",
+  "out": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/translated/pages__writing-effective-tools-for-agents.zh.md",
+  "words": 3394,
+  "part": 1,
+  "parts": 1
+ },
+ {
+  "id": "pdfs__ai-assisted-code-review-assessment.part01",
+  "src": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/extracted_parts/pdfs__ai-assisted-code-review-assessment.part01.en.md",
+  "out": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/translated/pdfs__ai-assisted-code-review-assessment.part01.zh.md",
+  "words": 3513,
+  "part": 1,
+  "parts": 3
+ },
+ {
+  "id": "pdfs__ai-assisted-code-review-assessment.part02",
+  "src": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/extracted_parts/pdfs__ai-assisted-code-review-assessment.part02.en.md",
+  "out": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/translated/pdfs__ai-assisted-code-review-assessment.part02.zh.md",
+  "words": 3617,
+  "part": 2,
+  "parts": 3
+ },
+ {
+  "id": "pdfs__ai-assisted-code-review-assessment.part03",
+  "src": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/extracted_parts/pdfs__ai-assisted-code-review-assessment.part03.en.md",
+  "out": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/translated/pdfs__ai-assisted-code-review-assessment.part03.zh.md",
+  "words": 953,
+  "part": 3,
+  "parts": 3
+ },
+ {
+  "id": "pdfs__how-anthropic-uses-claude-code.part01",
+  "src": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/extracted_parts/pdfs__how-anthropic-uses-claude-code.part01.en.md",
+  "out": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/translated/pdfs__how-anthropic-uses-claude-code.part01.zh.md",
+  "words": 4111,
+  "part": 1,
+  "parts": 3
+ },
+ {
+  "id": "pdfs__how-anthropic-uses-claude-code.part02",
+  "src": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/extracted_parts/pdfs__how-anthropic-uses-claude-code.part02.en.md",
+  "out": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/translated/pdfs__how-anthropic-uses-claude-code.part02.zh.md",
+  "words": 4166,
+  "part": 2,
+  "parts": 3
+ },
+ {
+  "id": "pdfs__how-anthropic-uses-claude-code.part03",
+  "src": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/extracted_parts/pdfs__how-anthropic-uses-claude-code.part03.en.md",
+  "out": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/translated/pdfs__how-anthropic-uses-claude-code.part03.zh.md",
+  "words": 2433,
+  "part": 3,
+  "parts": 3
+ },
+ {
+  "id": "pdfs__how-openai-uses-codex",
+  "src": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/extracted/pdfs__how-openai-uses-codex.en.md",
+  "out": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/translated/pdfs__how-openai-uses-codex.zh.md",
+  "words": 2130,
+  "part": 1,
+  "parts": 1
+ },
+ {
+  "id": "site__themodernsoftware.dev__index",
+  "src": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/extracted/site__themodernsoftware.dev__index.en.md",
+  "out": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/translated/site__themodernsoftware.dev__index.zh.md",
+  "words": 0,
+  "part": 1,
+  "parts": 1
+ }
+]

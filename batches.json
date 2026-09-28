@@ -1,0 +1,310 @@
+{
+  "limit_words": 4000,
+  "source_total_words": 96645,
+  "batch_count": 23,
+  "batches": [
+    {
+      "batch_id": "B01",
+      "words": 10786,
+      "docs": [
+        {
+          "slug": "pdfs__how-anthropic-uses-claude-code",
+          "words": 10786,
+          "source": "pdfs/how-anthropic-uses-claude-code.pdf"
+        }
+      ]
+    },
+    {
+      "batch_id": "B02",
+      "words": 8293,
+      "docs": [
+        {
+          "slug": "pdfs__ai-assisted-code-review-assessment",
+          "words": 8293,
+          "source": "pdfs/ai-assisted-code-review-assessment.pdf"
+        }
+      ]
+    },
+    {
+      "batch_id": "B03",
+      "words": 8021,
+      "docs": [
+        {
+          "slug": "pages__prompt-engineering-overview",
+          "words": 8021,
+          "source": "pages/prompt-engineering-overview.html"
+        }
+      ]
+    },
+    {
+      "batch_id": "B04",
+      "words": 7747,
+      "docs": [
+        {
+          "slug": "pages__context-rot",
+          "words": 7747,
+          "source": "pages/context-rot.html"
+        }
+      ]
+    },
+    {
+      "batch_id": "B05",
+      "words": 7362,
+      "docs": [
+        {
+          "slug": "pages__agentic-ai-threats",
+          "words": 7362,
+          "source": "pages/agentic-ai-threats.html"
+        }
+      ]
+    },
+    {
+      "batch_id": "B06",
+      "words": 4798,
+      "docs": [
+        {
+          "slug": "pages__mcp-introduction",
+          "words": 4798,
+          "source": "pages/mcp-introduction.html"
+        }
+      ]
+    },
+    {
+      "batch_id": "B07",
+      "words": 4140,
+      "docs": [
+        {
+          "slug": "pages__sre-introduction",
+          "words": 4140,
+          "source": "pages/sre-introduction.html"
+        }
+      ]
+    },
+    {
+      "batch_id": "B08",
+      "words": 4040,
+      "docs": [
+        {
+          "slug": "pages__finding-vulnerabilities-claude-codex",
+          "words": 4040,
+          "source": "pages/finding-vulnerabilities-claude-codex.html"
+        }
+      ]
+    },
+    {
+      "batch_id": "B09",
+      "words": 3536,
+      "docs": [
+        {
+          "slug": "pages__how-to-review-code-effectively",
+          "words": 3536,
+          "source": "pages/how-to-review-code-effectively.html"
+        }
+      ]
+    },
+    {
+      "batch_id": "B10",
+      "words": 3395,
+      "docs": [
+        {
+          "slug": "pages__devin-coding-agents-101",
+          "words": 3395,
+          "source": "pages/devin-coding-agents-101.html"
+        }
+      ]
+    },
+    {
+      "batch_id": "B11",
+      "words": 3394,
+      "docs": [
+        {
+          "slug": "pages__writing-effective-tools-for-agents",
+          "words": 3394,
+          "source": "pages/writing-effective-tools-for-agents.html"
+        }
+      ]
+    },
+    {
+      "batch_id": "B12",
+      "words": 3029,
+      "docs": [
+        {
+          "slug": "pages__sast-vs-dast",
+          "words": 3029,
+          "source": "pages/sast-vs-dast.html"
+        }
+      ]
+    },
+    {
+      "batch_id": "B13",
+      "words": 2394,
+      "docs": [
+        {
+          "slug": "pages__owasp-top-ten",
+          "words": 2394,
+          "source": "pages/owasp-top-ten.html"
+        }
+      ]
+    },
+    {
+      "batch_id": "B14",
+      "words": 2136,
+      "docs": [
+        {
+          "slug": "pages__specs-are-the-new-source-code",
+          "words": 2136,
+          "source": "pages/specs-are-the-new-source-code.html"
+        }
+      ]
+    },
+    {
+      "batch_id": "B15",
+      "words": 2130,
+      "docs": [
+        {
+          "slug": "pdfs__how-openai-uses-codex",
+          "words": 2130,
+          "source": "pdfs/how-openai-uses-codex.pdf"
+        }
+      ]
+    },
+    {
+      "batch_id": "B16",
+      "words": 2093,
+      "docs": [
+        {
+          "slug": "pages__code-review-essentials",
+          "words": 2093,
+          "source": "pages/code-review-essentials.html"
+        }
+      ]
+    },
+    {
+      "batch_id": "B17",
+      "words": 2035,
+      "docs": [
+        {
+          "slug": "pages__mcp-server-authentication",
+          "words": 2035,
+          "source": "pages/mcp-server-authentication.html"
+        }
+      ]
+    },
+    {
+      "batch_id": "B18",
+      "words": 2024,
+      "docs": [
+        {
+          "slug": "pages__multi-agent-systems-ai-native",
+          "words": 2024,
+          "source": "pages/multi-agent-systems-ai-native.html"
+        }
+      ]
+    },
+    {
+      "batch_id": "B19",
+      "words": 3776,
+      "docs": [
+        {
+          "slug": "pages__ai-code-review-best-practices",
+          "words": 2007,
+          "source": "pages/ai-code-review-best-practices.html"
+        },
+        {
+          "slug": "pages__observability-basics",
+          "words": 1769,
+          "source": "pages/observability-basics.html"
+        }
+      ]
+    },
+    {
+      "batch_id": "B20",
+      "words": 3172,
+      "docs": [
+        {
+          "slug": "pages__how-long-contexts-fail",
+          "words": 1606,
+          "source": "pages/how-long-contexts-fail.html"
+        },
+        {
+          "slug": "pages__claude-code-best-practices",
+          "words": 1566,
+          "source": "pages/claude-code-best-practices.html"
+        }
+      ]
+    },
+    {
+      "batch_id": "B21",
+      "words": 3855,
+      "docs": [
+        {
+          "slug": "pages__kubernetes-troubleshooting-ai",
+          "words": 1419,
+          "source": "pages/kubernetes-troubleshooting-ai.html"
+        },
+        {
+          "slug": "pages__copilot-prompt-injection-rce",
+          "words": 1260,
+          "source": "pages/copilot-prompt-injection-rce.html"
+        },
+        {
+          "slug": "index",
+          "words": 1176,
+          "source": "index.html"
+        }
+      ]
+    },
+    {
+      "batch_id": "B22",
+      "words": 3726,
+      "docs": [
+        {
+          "slug": "pages__benefits-agentic-ai-oncall",
+          "words": 999,
+          "source": "pages/benefits-agentic-ai-oncall.html"
+        },
+        {
+          "slug": "pages__code-reviews-just-do-it",
+          "words": 968,
+          "source": "pages/code-reviews-just-do-it.html"
+        },
+        {
+          "slug": "pages__mcp-food-for-thought",
+          "words": 905,
+          "source": "pages/mcp-food-for-thought.html"
+        },
+        {
+          "slug": "pages__mcp-registry-preview",
+          "words": 854,
+          "source": "pages/mcp-registry-preview.html"
+        }
+      ]
+    },
+    {
+      "batch_id": "B23",
+      "words": 763,
+      "docs": [
+        {
+          "slug": "pages__warp-vs-claude-code",
+          "words": 632,
+          "source": "pages/warp-vs-claude-code.html"
+        },
+        {
+          "slug": "pages__prompt-engineering-guide",
+          "words": 73,
+          "source": "pages/prompt-engineering-guide.html"
+        },
+        {
+          "slug": "pages__peeking-under-the-hood-of-claude-code",
+          "words": 40,
+          "source": "pages/peeking-under-the-hood-of-claude-code.html"
+        },
+        {
+          "slug": "pages__good-context-good-code",
+          "words": 18,
+          "source": "pages/good-context-good-code.html"
+        }
+      ]
+    }
+  ]
+}

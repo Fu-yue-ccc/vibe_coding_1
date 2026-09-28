@@ -1,0 +1,224 @@
+{
+  "source_root": "/Users/free/.cogseed/userWorkSpace/查看老师发布的全部任务/C1_课程资料翻译/source/CS146S_offline",
+  "doc_count": 36,
+  "total_chars": 642886,
+  "total_words": 96645,
+  "docs": [
+    {
+      "source": "index.html",
+      "slug": "index",
+      "chars": 8401,
+      "words": 1176
+    },
+    {
+      "source": "pages/agentic-ai-threats.html",
+      "slug": "pages__agentic-ai-threats",
+      "chars": 51756,
+      "words": 7362
+    },
+    {
+      "source": "pages/ai-code-review-best-practices.html",
+      "slug": "pages__ai-code-review-best-practices",
+      "chars": 14654,
+      "words": 2007
+    },
+    {
+      "source": "pages/benefits-agentic-ai-oncall.html",
+      "slug": "pages__benefits-agentic-ai-oncall",
+      "chars": 7018,
+      "words": 999
+    },
+    {
+      "source": "pages/claude-code-best-practices.html",
+      "slug": "pages__claude-code-best-practices",
+      "chars": 10055,
+      "words": 1566
+    },
+    {
+      "source": "pages/code-review-essentials.html",
+      "slug": "pages__code-review-essentials",
+      "chars": 11957,
+      "words": 2093
+    },
+    {
+      "source": "pages/code-reviews-just-do-it.html",
+      "slug": "pages__code-reviews-just-do-it",
+      "chars": 5686,
+      "words": 968
+    },
+    {
+      "source": "pages/context-rot.html",
+      "slug": "pages__context-rot",
+      "chars": 51117,
+      "words": 7747
+    },
+    {
+      "source": "pages/copilot-prompt-injection-rce.html",
+      "slug": "pages__copilot-prompt-injection-rce",
+      "chars": 7594,
+      "words": 1260
+    },
+    {
+      "source": "pages/devin-coding-agents-101.html",
+      "slug": "pages__devin-coding-agents-101",
+      "chars": 21854,
+      "words": 3395
+    },
+    {
+      "source": "pages/finding-vulnerabilities-claude-codex.html",
+      "slug": "pages__finding-vulnerabilities-claude-codex",
+      "chars": 25801,
+      "words": 4040
+    },
+    {
+      "source": "pages/good-context-good-code.html",
+      "slug": "pages__good-context-good-code",
+      "chars": 132,
+      "words": 18
+    },
+    {
+      "source": "pages/how-long-contexts-fail.html",
+      "slug": "pages__how-long-contexts-fail",
+      "chars": 10112,
+      "words": 1606
+    },
+    {
+      "source": "pages/how-to-review-code-effectively.html",
+      "slug": "pages__how-to-review-code-effectively",
+      "chars": 20257,
+      "words": 3536
+    },
+    {
+      "source": "pages/how-warp-uses-warp.html",
+      "slug": "pages__how-warp-uses-warp",
+      "chars": 0,
+      "words": 0
+    },
+    {
+      "source": "pages/kubernetes-troubleshooting-ai.html",
+      "slug": "pages__kubernetes-troubleshooting-ai",
+      "chars": 9605,
+      "words": 1419
+    },
+    {
+      "source": "pages/lessons-from-ai-code-reviews.html",
+      "slug": "pages__lessons-from-ai-code-reviews",
+      "chars": 0,
+      "words": 0
+    },
+    {
+      "source": "pages/mcp-food-for-thought.html",
+      "slug": "pages__mcp-food-for-thought",
+      "chars": 5462,
+      "words": 905
+    },
+    {
+      "source": "pages/mcp-introduction.html",
+      "slug": "pages__mcp-introduction",
+      "chars": 31273,
+      "words": 4798
+    },
+    {
+      "source": "pages/mcp-registry-preview.html",
+      "slug": "pages__mcp-registry-preview",
+      "chars": 5693,
+      "words": 854
+    },
+    {
+      "source": "pages/mcp-server-authentication.html",
+      "slug": "pages__mcp-server-authentication",
+      "chars": 13589,
+      "words": 2035
+    },
+    {
+      "source": "pages/multi-agent-systems-ai-native.html",
+      "slug": "pages__multi-agent-systems-ai-native",
+      "chars": 14470,
+      "words": 2024
+    },
+    {
+      "source": "pages/observability-basics.html",
+      "slug": "pages__observability-basics",
+      "chars": 12767,
+      "words": 1769
+    },
+    {
+      "source": "pages/owasp-top-ten.html",
+      "slug": "pages__owasp-top-ten",
+      "chars": 16746,
+      "words": 2394
+    },
+    {
+      "source": "pages/peeking-under-the-hood-of-claude-code.html",
+      "slug": "pages__peeking-under-the-hood-of-claude-code",
+      "chars": 299,
+      "words": 40
+    },
+    {
+      "source": "pages/prompt-engineering-guide.html",
+      "slug": "pages__prompt-engineering-guide",
+      "chars": 495,
+      "words": 73
+    },
+    {
+      "source": "pages/prompt-engineering-overview.html",
+      "slug": "pages__prompt-engineering-overview",
+      "chars": 57714,
+      "words": 8021
+    },
+    {
+      "source": "pages/sast-vs-dast.html",
+      "slug": "pages__sast-vs-dast",
+      "chars": 21169,
+      "words": 3029
+    },
+    {
+      "source": "pages/specs-are-the-new-source-code.html",
+      "slug": "pages__specs-are-the-new-source-code",
+      "chars": 12951,
+      "words": 2136
+    },
+    {
+      "source": "pages/sre-introduction.html",
+      "slug": "pages__sre-introduction",
+      "chars": 26091,
+      "words": 4140
+    },
+    {
+      "source": "pages/warp-vs-claude-code.html",
+      "slug": "pages__warp-vs-claude-code",
+      "chars": 4217,
+      "words": 632
+    },
+    {
+      "source": "pages/writing-effective-tools-for-agents.html",
+      "slug": "pages__writing-effective-tools-for-agents",
+      "chars": 22347,
+      "words": 3394
+    },
+    {
+      "source": "pdfs/ai-assisted-code-review-assessment.pdf",
+      "slug": "pdfs__ai-assisted-code-review-assessment",
+      "chars": 53345,
+      "words": 8293
+    },
+    {
+      "source": "pdfs/how-anthropic-uses-claude-code.pdf",
+      "slug": "pdfs__how-anthropic-uses-claude-code",
+      "chars": 75214,
+      "words": 10786
+    },
+    {
+      "source": "pdfs/how-openai-uses-codex.pdf",
+      "slug": "pdfs__how-openai-uses-codex",
+      "chars": 13045,
+      "words": 2130
+    },
+    {
+      "source": "site/themodernsoftware.dev/index.html",
+      "slug": "site__themodernsoftware.dev__index",
+      "chars": 0,
+      "words": 0
+    }
+  ]
+}
